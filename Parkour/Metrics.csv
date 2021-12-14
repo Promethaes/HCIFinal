@@ -1,0 +1,31 @@
+ID,Metric,Build A,Build B
+P1,Level 1 Time,52.93,26.04
+P2,Level 1 Time,48.23,36.21
+P3,Level 1 Time,46.91,87.51
+P4,Level 1 Time,17.79,43.11
+P5,Level 1 Time,27.93,20.37
+P6,Level 1 Time,22.91,24.61
+P7,Level 1 Time,57.31,23.57
+P8,Level 1 Time,20.2,24.54
+P9,Level 1 Time,48.66,24.36
+P10,Level 1 Time,26.81,96.32
+P1,Level 2 Time,27.91,26.78
+P2,Level 2 Time,29.41,29.2
+P3,Level 2 Time,26.22,31.54
+P4,Level 2 Time,25.5,27.52
+P5,Level 2 Time,27.33,25.37
+P6,Level 2 Time,26.37,24.49
+P7,Level 2 Time,28.55,25.29
+P8,Level 2 Time,23.42,32.14
+P9,Level 2 Time,27.21,27.21
+P10,Level 2 Time,25.67,26.12
+P1,Deaths,6,4
+P2,Deaths,9,8
+P3,Deaths,11,23
+P4,Deaths,9,10
+P5,Deaths,4,11
+P6,Deaths,3,7
+P7,Deaths,5,10
+P8,Deaths,10,7
+P9,Deaths,12,6
+P10,Deaths,10,7
